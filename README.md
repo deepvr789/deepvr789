@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Rathod</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently Pursuing **MTECH in Software Engineering From RV College of Engineering**
+- 🔭 **MTECH in Software Engineering From RV College of Engineering**
 
 - 🌱 I’m currently learning **Python, DSA, Mobile Application Development, SDLC, JAVA, DBMS**
 
