@@ -3,7 +3,7 @@
 
 - 🔭 **MTECH in Software Engineering From RV College of Engineering**
 
-- 🌱 I’m currently learning **Python, DSA, Mobile Application Development, SDLC, JAVA, DBMS**
+- 🌱 I’m currently learning **Python, DSA, Mobile Application Development, SDLC, JAVA, DBMS, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deepvr789?tab=repositories](https://github.com/deepvr789?tab=repositories)
 
