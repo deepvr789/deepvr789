@@ -3,7 +3,7 @@
 
 - 🔭 **MTECH in Software Engineering From RV College of Engineering**
 
-- 🌱 I’m currently learning **Python, DSA, SDLC, DBMS, MERN Stack**
+- 🌱 I’m currently learning ** MERN Stack, Python, DSA, SDLC, DBMS **
 
 - 👨‍💻 All of my projects are available at [https://github.com/deepvr789?tab=repositories](https://github.com/deepvr789?tab=repositories)
 
