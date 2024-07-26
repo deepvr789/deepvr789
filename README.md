@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Rathod</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+- 👨‍💻 ** FULL STACK DEVELOPER ** 
 
 - 🔭 **MTECH in Software Engineering From RV College of Engineering**
 
